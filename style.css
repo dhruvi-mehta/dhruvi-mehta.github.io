@@ -1,0 +1,22 @@
+body {
+	background-color:#d2f8fe;
+	top-padding:25px;
+	right-padding:50px;    
+}
+
+    
+
+
+#introduction {
+	text-align:center;
+	font-size:50px;
+	font-family:san-serif;
+	font-size:25px;
+	padding-top:15%;
+	padding-left:10%;
+	padding-right:10%;
+	font-family: study,serif;
+	font-weight: 100;
+	font-style: normal;
+}
+
